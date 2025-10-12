@@ -1,0 +1,17 @@
+19990667:VIVANCO PRADA,Maribel:maribel.vivanco@pucp.edu.pe
+20208541:GASTELU ADVÍNCULA,José Miguel:josÉ.gastelu@pucp.edu.pe
+20030380:MARTÍNEZ LINARES,Marco Angello:marco.martÍnez@pucp.edu.pe
+20035355:CORDERO PRÍNCIPE,Pierre Andrés:pierre.cordero@pucp.edu.pe
+20037170:BARDALEZ TORRES,Ivan:ivan.bardalez@pucp.edu.pe
+20040319:CÁCERES CHUMPITAZ,Andrea Silvia María:andrea.cÁceres@pucp.edu.pe
+20040385:TASATO CÁNEPA,Kenji:kenji.tasato@pucp.edu.pe
+20041819:HUALTA ESPINOZA,Eloisa Carolina:eloisa.hualta@pucp.edu.pe
+20042013:CHICANA VIVAR,Wilder Josue:wilder.chicana@pucp.edu.pe
+20042039:CARRIÓN TELLO,Jesús Antonio:jesÚs.carriÓn@pucp.edu.pe
+20042055:GAMARRA STAGNARO,Miguel Eduardo:miguel.gamarra@pucp.edu.pe
+20042071:MONGE VALDIVIESO,Luis Alberto:luis.monge@pucp.edu.pe
+20042093:SÁNCHEZ FIGUEROA,Mariela Rossana:mariela.sÁnchez@pucp.edu.pe
+20042117:SALINAS MORALES,Bertha Katherine:bertha.salinas@pucp.edu.pe
+20042151:ONOFRE RIVERA,Daysy Patricia:daysy.onofre@pucp.edu.pe
+20047001:CARRANZA HERNANDEZ,Sammy Nahin:sammy.carranza@pucp.edu.pe
+20047005:CANO CAUZO,Jesus Humberto:jesus.cano@pucp.edu.pe
